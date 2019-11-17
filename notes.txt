@@ -1,7 +1,7 @@
 users: user_id, user_name, full_name, email, phone, address, other
 int_user_types_users: user_type_id, user_id
 activity_types: activity_type_id, description
-activities: activity_id, user_id, activity_type+id, other
+activities: activity_id, user_id, activity_type_id, other
 condition_types: condition_type_id
 conditions: condition_id, user_id, description
 search_phrase_types: search_phrase_type_id, search_phrase_name, scale (range -10:10)
