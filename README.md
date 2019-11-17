@@ -17,3 +17,6 @@ Sending text messages | 46elks.com API | Future
 Integration with Google | To be discussed with Google | Future
 Mobile Apps | React Native | Future
 Smartwatch apps | Depending on brand | Future
+
+## More detailed description
+Is in file life saver.pdf
